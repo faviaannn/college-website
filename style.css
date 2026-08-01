@@ -213,5 +213,14 @@ footer {
     table {
         font-size: 14px;
     }
+    /* Office Hours */
+
+section {
+    margin-top: 30px;
+}
+
+strong {
+    color: #003366;
+}
 
 }
